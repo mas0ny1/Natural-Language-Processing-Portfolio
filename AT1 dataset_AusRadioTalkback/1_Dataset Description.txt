@@ -1,0 +1,28 @@
+Name
+
+Australian Radio Talkback
+
+Description
+
+It includes 14 transcribed recordings of talkback from ABC National Radio (NAT), ABC Radio broadcasts to eastern Australian (ABCE), ABC Radio broadcasts to southern and western Australia (ABCNE); as well as 15 transcribed recordings of talkback radio from commercial stations broadcasting to eastern Australia (COME) and southern and western Australia (COMNE). This collection was previously accessible online via the Australian National Corpus (AusNC), an initiative managed by Griffith University between 2012 and 2023.
+
+Date Published: 2006
+
+@id: arcp://name,doi10.25949%2F24769434.v1 
+ 
+Compiler: Pam Peters
+
+Creator: Pam Peters
+
+Publisher: Macquarie University
+
+Access
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Attribution 4.0 International (CC BY 4.0)
+Public Metadata and Text is Searchable
